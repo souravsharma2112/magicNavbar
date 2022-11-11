@@ -73,7 +73,7 @@ body{
 }
 .indicator{
     position: absolute;
-    top: 38.5%;
+    top: -50%;
     width: 70px;
     height: 70px;
     background: #29fd29;
